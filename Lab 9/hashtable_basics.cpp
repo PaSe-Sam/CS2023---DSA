@@ -52,7 +52,6 @@ struct HashTable{
         }
 
         else{
-            
             cout << "Already filled position" << "\n";
         }
 
